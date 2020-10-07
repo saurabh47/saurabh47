@@ -9,4 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: NULL
 
-[![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabh47)](https://github.com/anuraghazra/github-readme-stats)
+![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabh47&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh47&layout=compact)
