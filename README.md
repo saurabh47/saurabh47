@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Twitter - @saurabh47g](https://twitter.com/saurabh47g)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: NULL
+
+[![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabh47)](https://github.com/anuraghazra/github-readme-stats)
