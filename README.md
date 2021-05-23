@@ -12,3 +12,5 @@
 <a href="https://github.com/saurabh47/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh47&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saurabh's GitHub Stats" />
 </a> 
+
+![Visitor Count](https://profile-counter.glitch.me/{saurabh47}/count.svg)
