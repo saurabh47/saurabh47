@@ -1,7 +1,7 @@
 ### Hi,I'm Saurabh! 👋
 
 - 🔭 I’m currently working on Angular & Spring Project
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Scala
 - 👯 I’m looking to collaborate on Angular , NestJs Opensource Projects
 - 🤔 I’m looking for help with AWS & Networking
 - 💬 Ask me about Angular or any tech related stuff.
