@@ -9,8 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: NULL
 
-<a href="https://app.daily.dev/saurabh47"><img src="https://api.daily.dev/devcards/aa35c5ca4bf942c785ecf65e67fc82b3.png?r=qy1" width="400" alt="Saurabh Gangamwar's Dev Card"/></a>
-
 <a href="https://github.com/saurabh47/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh47&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saurabh's GitHub Stats" />
 </a> 
