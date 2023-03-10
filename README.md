@@ -1,7 +1,7 @@
 ### Hi,I'm Saurabh! 👋
 
-- 🔭 I’m currently working on Angular & Spring Project
-- 🌱 I’m currently learning Scala
+- 🔭 I’m currently building Analytics Tool using Angular, NestJs, Java, Scala, MySQL & Snowflake ... 
+- 🌱 I’m currently learning Scala, AWS
 - 👯 I’m looking to collaborate on Angular , NestJs Opensource Projects
 - 🤔 I’m looking for help with AWS & Networking
 - 💬 Ask me about Angular or any tech related stuff.
@@ -9,8 +9,11 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: NULL
 
-<a href="https://github.com/saurabh47/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh47&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saurabh's GitHub Stats" />
-</a> 
+<details>
+  <summary>Stats</summary>
+  <a href="https://github.com/saurabh47/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh47&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saurabh's GitHub Stats" />
+  </a> 
 
-![Visitor Count](https://profile-counter.glitch.me/{saurabh47}/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/{saurabh47}/count.svg)
+</details>
