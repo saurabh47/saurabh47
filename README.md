@@ -1,6 +1,6 @@
 ### Hi,I'm Saurabh! 👋
 
-- 🔭 I’m currently building Analytics Tool using Angular, NestJs, Java, Scala, MySQL & Snowflake ... 
+- 🔭 I’m currently building Analytics Tool using Angular, NestJs, Java, Scala, Flink, MySQL & Snowflake ... 
 - 🌱 I’m currently learning Flink & AI/ML.
 - 👯 I’m looking to collaborate on Angular, NestJs Opensource Projects
 - 🤔 I’m looking for help with AWS & Networking
