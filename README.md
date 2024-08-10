@@ -1,10 +1,10 @@
 ### Hi,I'm Saurabh! 👋
 
 - 🔭 I’m currently building Analytics Tool using Angular, NestJs, Java, Scala, MySQL & Snowflake ... 
-- 🌱 I’m currently learning Scala, AWS
-- 👯 I’m looking to collaborate on Angular , NestJs Opensource Projects
+- 🌱 I’m currently learning Flink & AI/ML.
+- 👯 I’m looking to collaborate on Angular, NestJs Opensource Projects
 - 🤔 I’m looking for help with AWS & Networking
-- 💬 Ask me about Angular or any tech related stuff.
+- 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: [Twitter - @saurabh47g](https://twitter.com/saurabh47g)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: NULL
